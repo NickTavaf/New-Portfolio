@@ -1,0 +1,17 @@
+h1{
+    color:(187, 190, 237);
+}
+html, body{
+    background-color: rgb(60, 43, 255);
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(60, 43, 255));
+    background-repeat:repeat-x;
+}
+.top-content{
+    text-align: center;
+}
+.middle-content{
+    text-align: center;
+}
+iframe{
+    align-content: center;
+}
